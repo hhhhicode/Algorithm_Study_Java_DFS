@@ -75,8 +75,6 @@ public class Main {
 					searchGroup(thereX, thereY);
 				}
 			}
-		}
-		
+		}		
 	}
-
 }
