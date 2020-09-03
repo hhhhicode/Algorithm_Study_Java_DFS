@@ -1,3 +1,5 @@
+// 틀린문제. 아직 풀지 못했다. 다시 도전.
+
 package 텀_프로젝트;
 
 import java.io.BufferedReader;
