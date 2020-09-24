@@ -84,8 +84,8 @@ class Problem {
 	}
 	public void searching(Node ll) {
 		if(ll == null) return;
+		ll.printValue();
 		searching(ll.getLt());
 		searching(ll.getRt());
-		ll.printValue();
 	}
 }
